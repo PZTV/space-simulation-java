@@ -30,7 +30,7 @@ Program başladığında:
 ## 📂 Proje Yapısı
 - `src/` → Kaynak dosyalar (.java)  
 - `dist/` → Çalıştırılabilir `.jar` dosyası  
-- `doc/` → Rapor (PDF)  
+- `doc/` → Rapor (.docx)  
 - `Kisiler.txt` → Kişi verileri (isim, yaş, kalan ömür, bulunduğu araç)  
 - `Araclar.txt` → Uzay aracı verileri (çıkış, varış, tarih, mesafe)  
 - `Gezegenler.txt` → Gezegen verileri (isim, gün uzunluğu, tarih)  
